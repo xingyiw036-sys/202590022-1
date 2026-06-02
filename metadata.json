@@ -1,0 +1,6 @@
+{
+  "name": "校园休闲解谜与原型设计器",
+  "description": "2D 休闲冒险与轻度解谜游戏《校园大冒险》的互动式原型与 Excel 设计资产中心。包含校园广场和教室双场景游玩，提供表格和图表生成器。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
